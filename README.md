@@ -1,3 +1,4 @@
+MÍNIM 1 - CARLA OTERO ROCA
 # StayCloseApp
 
 ---------------User functions---------------
